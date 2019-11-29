@@ -1,6 +1,9 @@
 # vue-me-player 音乐播放器
 
+
 > [**快速Demo**](http://demo.metoyun.com/vue-me-player/#/)
+> [**Github地址**](https://github.com/metoyun/vue-me-player)
+> [**Gitee地址**](https://gitee.com/metoyun_admin/vue-me-player)
 
 
 
